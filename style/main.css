@@ -1,0 +1,47 @@
+body {
+	margin: 0px;
+	color: white;
+}
+.navbar {
+	background-color: #007bff;
+}
+
+
+.escudoAfa {
+	height: 25%;
+	width: 25%;
+}
+
+.mmm {
+    left: 30%;
+    text-align: center;
+}
+
+h3{
+    font-family: 'Poppins', sans-serif;
+}
+
+.social-box .box{
+    background: blue;
+    border-radius: 10px; 
+    padding: 40px 10px;
+    margin: 10px 0px;
+    transition: all 0.5s ease-out;
+}
+
+.social-box .box:hover{
+   box-shadow: 0 0 6px #4183D7;
+}
+
+@media (max-width: 806px) {
+  .mmm {
+    left: 40px;
+	}
+}
+
+@media (max-width: 806px) {
+  .social-box .box {
+    width: 300px;
+    margin-left: 80px;
+	} 
+}
