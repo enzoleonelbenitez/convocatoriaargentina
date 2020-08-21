@@ -42,23 +42,23 @@ h3{
 .social-box .box:hover{
    box-shadow: 0 0 6px #4183D7;
 }
-
-@media (max-width: 806px) {
+/*
+@media (max-width: 600px) {
   .mmm {
     left: 40px;
 	}
 }
 
-@media (max-width: 806px) {
+@media (max-width: 600px) {
   .social-box .box {
     width: 300px;
     margin-left: 80px;
 	} 
 }
 
-@media (max-width: 806px) {
+@media (max-width: 600px) {
  nav {
     width: 100%;
     
 	} 
-}
+}*/
