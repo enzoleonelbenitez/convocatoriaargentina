@@ -22,8 +22,12 @@ body .escudo-top {
   height: 100%;
 }
 
-.mmm {
+.second-nav {
 margin-left: 30%;
+}
+
+.color-nav {
+  background-color: #007bff;
 }
 
 h3{
