@@ -46,3 +46,10 @@ h3{
     margin-left: 80px;
 	} 
 }
+
+@media (max-width: 806px) {
+ nav {
+    width: 300px;
+    
+	} 
+}
