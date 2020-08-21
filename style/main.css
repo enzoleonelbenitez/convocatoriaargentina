@@ -23,7 +23,8 @@ body .escudo-top {
 }
 
 .second-nav {
-
+  display: flex;
+  flex-direction: row;
 }
 
 .color-nav {
