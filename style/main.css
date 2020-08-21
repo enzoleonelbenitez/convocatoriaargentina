@@ -7,10 +7,10 @@ nav {
 	background-color: red;
 }
 
-body .escudo-top {
-  background-color: #002FA7 !important;
+.navbar-top {
+  background-color: yellow !important;
   border-color: #002FA7 !important;
-  width: 100vw;
+  width: 100%;
   height: 100%;
 }
 
