@@ -23,7 +23,7 @@ body .escudo-top {
 }
 
 .second-nav {
-margin-left: 30%;
+
 }
 
 .color-nav {
@@ -47,7 +47,7 @@ h3{
 }
 
 @media (max-width: 600px) {
-  .mmm {
+  .second-nav {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
