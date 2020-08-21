@@ -23,8 +23,10 @@ body .escudo-top {
 }
 
 .mmm {
-  margin-left: 30%;
-    text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: flex-start;
 }
 
 h3{
@@ -45,6 +47,9 @@ h3{
 
 @media (max-width: 600px) {
   .mmm {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     margin-left: 0px;
 	}
 }
